@@ -80,6 +80,7 @@ Example  - SCSS
       }
     }
     
+    // NOTE: Need to find best solution than this.
     // state class    
     &.is-open {
       .UserBlock_dropdown_menu {
