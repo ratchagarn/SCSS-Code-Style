@@ -12,7 +12,9 @@ Example  - HTML
 ```html
 <div class="UserBlock">
   <div class="UserBlock_fullname">Ratchagarn Naewbuntad</div>
-  <div class="UserBlock_avatar"><img src="http://placehold.it/128x128" alt="" class="avatarImg" /></div>
+  <div class="UserBlock_avatar">
+    <img src="http://placehold.it/128x128" alt="" class="avatarImg" />
+  </div>
   <ul class="UserBlock_info">    
     <li class="infoItem">Role: Frontend Engineer</li>
     <li class="infoItem">Age: 26</li>
