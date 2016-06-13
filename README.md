@@ -24,6 +24,12 @@ Example  - HTML
     <ul class="UserBlock_dropdown_menu">
       <li class="menuItem"><a href="/change-password" class="menuLink">Change Password</a></li>
       <li class="menuItem"><a href="/logout" class="menuLink">Logout</a></li>
+      <!--
+      For about child, You can use Element style instead.
+      So, If you use this style your selector don't need child selector.
+      <li class="UserBlock_dropdown_menuItem"><a href="/change-password" class="menuLink">Change Password</a></li>
+      <li class="UserBlock_dropdown_menuItem"><a href="/logout" class="menuLink">Logout</a></li>
+      -->
     </ul>
   </div>
 </div>
