@@ -4,8 +4,9 @@ Selector naming rule.
 
 - `[BlockName]_[element]`
 - `[childName]` - First word must be `element` name. and need to use child selector `>`.
-- `-[modifier]`
+- `-[modifier]`.
 - `is[state-name]` - State name must be start with `is`. (isActive, isCollapse, isOpen)
+- `_[healper-name]` - Helper name must be start with `_`. (_pull-left, _text-center)
 
 Example  - HTML
 
